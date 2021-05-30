@@ -1,6 +1,6 @@
 # Storage-seat
 
-### version ：0.1 bate
+### version ：0.1
 
 -----------------------
 |Author |MistyMoon              |
