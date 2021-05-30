@@ -20,7 +20,3 @@ SD U盘 TypeC口 手机卡 收纳座 3D打印
 ### 图片:        
 3D   
 ![IMG](/Pictures/3D.png)    
-
-
-Picture         
-![IMG](/Pictures/picture.JPG)
