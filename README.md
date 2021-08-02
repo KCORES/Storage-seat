@@ -1,11 +1,12 @@
 # Storage-seat
 
 ### version ：0.2
+- add new stl
 
 -----------------------
-|Author |[![Github-S]][Github]              |
-|---    |---                    |
-|E-mail |MistyMoonR@outlook.com |
+| Author | [![Github-S]][Github]  |
+| ------ | ---------------------- |
+| E-mail | MistyMoonR@outlook.com |
 
 -----------------------
 
@@ -14,12 +15,15 @@ SD U盘 TypeC口 手机卡 收纳座 3D打印
 
 
 ### 文件:
-3D models文件里面自己看     
 
-正常版本: [seat](3D-Models/seat.stl)        
+传送门: [3D models文件](3D-Models)
+
+
+正常版本: [seat.stl](3D-Models/seat.stl)        
 推荐3D打印机软件里面 精度选高.
 
-解决部分3D打印机精度的问题, 特意推出一个版本 [seat-Vats](3D-Models/seat-Vats.stl)
+解决部分3D打印机精度的问题, 特意推出一个版本 [seat-Vats.stl](3D-Models/seat-Vats.stl)       
+(公差很大)
 
 -----------------------
 ## English
@@ -28,12 +32,12 @@ SD U盘 TypeC口 手机卡 收纳座 3D打印
 SD USB flash drive TypeC port Mobile phone card storage holder 3D printing
 
 ### File:
-3D models file inside see for yourself     
+3D models file inside  
 
-Normal version: [seat](3D-Models/seat.stl)        
+Normal version: [seat.stl](3D-Models/seat.stl)        
 Recommended 3D printer software with high accuracy.
 
-To solve the problem of accuracy of some 3D printers, a special version [seat-Vats](3D-Models/seat-Vats.stl) is available.
+To solve the problem of accuracy of some 3D printers, a special version [seat-Vats.stl](3D-Models/seat-Vats.stl) is available.
 
 
 -----------------------
